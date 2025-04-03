@@ -10,15 +10,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      37 mins             ███████████████░░░░░░░░░░   61.23 % 
-JavaScript               23 mins             ██████████░░░░░░░░░░░░░░░   38.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            37 mins             ███████████████░░░░░░░░░░   61.23 % 
-VS Code                  23 mins             ██████████░░░░░░░░░░░░░░░   38.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -33,5 +31,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2025 01:14:31 UTC
+ Last Updated on 03/04/2025 01:13:37 UTC
 <!--END_SECTION:waka-->
