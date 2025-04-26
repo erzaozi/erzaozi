@@ -10,14 +10,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               8 mins              ████████████████████████░   97.97 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -32,5 +31,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2025 01:16:31 UTC
+ Last Updated on 26/04/2025 01:13:38 UTC
 <!--END_SECTION:waka-->
