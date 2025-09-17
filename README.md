@@ -4,25 +4,6 @@
 | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erzaozi&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&langs_count=4&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erzaozi&show_icons=true&line_height=27&count_private=true&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> |
 | ----- | ----- |
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               38 mins             ███████████████████░░░░░░   74.27 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-
-🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,5 +17,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 01:11:41 UTC
+ Last Updated on 17/09/2025 01:11:40 UTC
 <!--END_SECTION:waka-->
