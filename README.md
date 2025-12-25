@@ -10,13 +10,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               6 mins              █████████████████████░░░░   83.15 % 
+Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -32,5 +33,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 01:22:24 UTC
+ Last Updated on 25/12/2025 01:23:26 UTC
 <!--END_SECTION:waka-->
