@@ -4,6 +4,23 @@
 | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erzaozi&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&langs_count=4&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erzaozi&show_icons=true&line_height=27&count_private=true&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> |
 | ----- | ----- |
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      21 mins             ████████████████████████░   97.68 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+🔥 Editors: 
+Visual Studio            21 mins             ████████████████████████░   97.68 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+💻 Operating System: 
+Windows                  22 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -17,5 +34,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:42:48 UTC
+ Last Updated on 05/01/2026 01:42:55 UTC
 <!--END_SECTION:waka-->
