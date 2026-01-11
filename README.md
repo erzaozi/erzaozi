@@ -10,13 +10,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -32,5 +32,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2026 01:23:35 UTC
+ Last Updated on 11/01/2026 01:42:49 UTC
 <!--END_SECTION:waka-->
