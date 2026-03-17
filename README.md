@@ -10,31 +10,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 40 mins        ███████████████████░░░░░░   76.34 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   6 hrs 43 mins       ███████████████████████░░   91.43 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Kotlin                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+PyCharm                  5 hrs 6 mins        █████████████████░░░░░░░░   69.48 % 
+VS Code                  2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.52 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 16/03/2026 02:07:40 UTC
+ Last Updated on 17/03/2026 01:54:51 UTC
 <!--END_SECTION:waka-->
