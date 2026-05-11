@@ -10,13 +10,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      25 mins             ███████████████████░░░░░░   76.54 % 
+TypeScript               7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -32,5 +34,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 02:41:41 UTC
+ Last Updated on 11/05/2026 02:51:17 UTC
 <!--END_SECTION:waka-->
