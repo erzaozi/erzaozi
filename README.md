@@ -4,6 +4,24 @@
 | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erzaozi&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&langs_count=4&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erzaozi&show_icons=true&line_height=27&count_private=true&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> |
 | ----- | ----- |
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 2 mins        ███████████████░░░░░░░░░░   60.24 % 
+Vue                      52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -17,5 +35,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 03:29:32 UTC
+ Last Updated on 06/06/2026 02:50:56 UTC
 <!--END_SECTION:waka-->
