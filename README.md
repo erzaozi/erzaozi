@@ -12,13 +12,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+.env file                6 mins              █████████████████░░░░░░░░   67.83 % 
+Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -40,5 +44,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 02:57:30 UTC
+ Last Updated on 10/09/2026 02:58:05 UTC
 <!--END_SECTION:waka-->
