@@ -4,7 +4,7 @@
 | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erzaozi&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&langs_count=4&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> | <a href="https://github.com/erzaozi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erzaozi&show_icons=true&line_height=27&count_private=true&title_color=44cef6&text_color=4b5cc4&icon_color=2bbc8a&bg_color=white&hide_border=true" alt="ErZaozi's GitHub Stats" /></a> |
 | ----- | ----- |
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -12,23 +12,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-.env file                6 mins              █████████████████░░░░░░░░   67.83 % 
-Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+.env file                6 mins              ███████████░░░░░░░░░░░░░░   45.73 % 
+Other                    4 mins              ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-PyCharm                  9 mins              █████████████████████████   100.00 % 
+PyCharm                  9 mins              █████████████████░░░░░░░░   67.41 % 
+VS Code                  4 mins              ████████░░░░░░░░░░░░░░░░░   32.59 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (32.59%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 317,367 Input Tokens, 704 Output Tokens
+
+💵 $1.81 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 1 AI Prompts
+
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 9 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -44,5 +61,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 03:00:31 UTC
+ Last Updated on 14/09/2026 03:14:39 UTC
 <!--END_SECTION:waka-->
