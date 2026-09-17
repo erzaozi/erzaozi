@@ -12,24 +12,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-.env file                6 mins              ███████████░░░░░░░░░░░░░░   45.73 % 
-Other                    4 mins              ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  9 mins              █████████████████░░░░░░░░   67.41 % 
-VS Code                  4 mins              ████████░░░░░░░░░░░░░░░░░   32.59 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (32.59%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -61,5 +56,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 03:12:46 UTC
+ Last Updated on 17/09/2026 03:18:15 UTC
 <!--END_SECTION:waka-->
